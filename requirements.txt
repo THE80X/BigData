@@ -5,3 +5,5 @@ pandas
 matplotlib
 plotly
 umap-learn
+seaborn
+statsmodels
