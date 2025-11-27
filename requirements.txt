@@ -7,3 +7,4 @@ plotly
 umap-learn
 seaborn
 statsmodels
+imbalanced-learn
